@@ -1,7 +1,5 @@
 login admin
 
-1. usename : ryzal
-   password : ryzal
+1. usename : reka
+   password : reka
    
-2. username : admin
-   password : admin
